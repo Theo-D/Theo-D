@@ -1,6 +1,7 @@
-# Hi, I'm Théo DESSAIGNE, aspiring full stack developer.
+#Théo DESSAIGNE, aspiring full stack developer.
 
-Welcome to my GitHub profile! I'm a [Your Job Title or Student] passionate about coding, open-source, and building useful tools and applications.
+Welcome to my Github page. I'm a former woodworker on an occupational retraining to hopefully become Fullstack Developer.
+Right now, I'm studying at Holberton School, Toulouse. Open to any internship or apprenticeship proposal.
 
 ---
 
@@ -8,13 +9,12 @@ Welcome to my GitHub profile! I'm a [Your Job Title or Student] passionate about
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Project One](https://github.com/yourusername/project-one) | A web app that helps users track daily habits. | React, Node.js, MongoDB |
-| [Project Two](https://github.com/yourusername/project-two) | CLI tool to automate project scaffolding. | Python, Click |
-| [Project Three](https://github.com/yourusername/project-three) | API for weather data aggregation. | Go, PostgreSQL, Redis |
+| [Simple Shell](https://github.com/Theo-D/holbertonschool-simple_shell) | A simple version a Linux shell to train C coding and group project. | C |
+| [HbnB](https://github.com/Theo-D/holbertonschool-hbnb) | A holidays booking website inspired by a well known platform. | Python, SQLAchemy, Flask-Restx |
 
 ---
 
-## 🧠 Languages Used (By % in Repos)
+## 🧠 Languages Used
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-D&layout=compact&langs_count=6&hide=html,css&theme=github_dark)
 
@@ -22,9 +22,11 @@ Welcome to my GitHub profile! I'm a [Your Job Title or Student] passionate about
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ---
@@ -40,7 +42,3 @@ Welcome to my GitHub profile! I'm a [Your Job Title or Student] passionate about
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/th%C3%A9o-dessaigne-bb0483373/)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/th%C3%A9o-dessaigne-bb0483373/))
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Google-Chrome)](https://yourportfolio.com)
-
----
