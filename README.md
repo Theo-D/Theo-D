@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# Hi, I'm Théo DESSAIGNE, aspiring full stack developer.
 
 Welcome to my GitHub profile! I'm a [Your Job Title or Student] passionate about coding, open-source, and building useful tools and applications.
 
