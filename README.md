@@ -1,4 +1,4 @@
-#Théo DESSAIGNE, aspiring full stack developer.
+# Théo DESSAIGNE, aspiring full stack developer.
 
 Welcome to my Github page. I'm a former woodworker on an occupational retraining to hopefully become Fullstack Developer.
 Right now, I'm studying at Holberton School, Toulouse and I'm based near Montpellier. Open to any internship or apprenticeship proposal.
