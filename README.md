@@ -15,8 +15,7 @@ Right now, I'm studying at Holberton School, Toulouse and I'm based near Montpel
 ---
 
 ## 🧠 Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-D&layout=compact&langs_count=6&hide=html,css&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Theo-D=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -30,14 +29,6 @@ Right now, I'm studying at Holberton School, Toulouse and I'm based near Montpel
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Theo-D&show_icons=true&theme=github_dark&hide=prs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
