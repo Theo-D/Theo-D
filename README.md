@@ -15,7 +15,7 @@ Right now, I'm studying at Holberton School, Toulouse and I'm based near Montpel
 ---
 
 ## 🧠 Languages Used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-D)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theo-D&layout=compact&langs_count=6&theme=github_dark)
 
 ---
 
