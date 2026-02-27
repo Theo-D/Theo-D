@@ -9,8 +9,9 @@ Right now, I'm studying at Holberton School, Toulouse and I'm based near Montpel
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [Simple Shell](https://github.com/Theo-D/holbertonschool-simple_shell) | A simple version a Linux shell to train C coding and group project. | C |
+| [Simple Shell](https://github.com/Theo-D/holbertonschool-fariza_solidaire) | A website for showcasing and managing the business logic of a real-life association | Springboot, Hibernate, ReactJS, MySQL |
 | [HbnB](https://github.com/Theo-D/holbertonschool-hbnb) | A holidays booking website inspired by a well known platform. | Python, SQLAchemy, Flask-Restx |
+| [Simple Shell](https://github.com/Theo-D/holbertonschool-simple_shell) | A simple version a Linux shell to train C coding and group project. | C |
 
 ---
 
