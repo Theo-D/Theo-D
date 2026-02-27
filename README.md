@@ -9,6 +9,7 @@ Right now, I'm studying at Holberton School, Toulouse and I'm based near Montpel
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
+| [Edidebs - Payment AccountValidation ](https://github.com/Theo-D/Payment-Account-Validation) | Documentation for a microservice that allows for the validation of a payment account on client payment. | Springboot, Hibernate |
 | [Fariza Solidaire](https://github.com/Theo-D/holbertonschool-fariza_solidaire) | A website for showcasing and managing the business logic of a real-life association | Springboot, Hibernate, ReactJS, MySQL |
 | [HBnB](https://github.com/Theo-D/holbertonschool-hbnb) | A holidays booking website inspired by a well known platform. | Python, SQLAchemy, Flask-Restx |
 | [Simple Shell](https://github.com/Theo-D/holbertonschool-simple_shell) | A simple version a Linux shell to train C coding and group project. | C |
